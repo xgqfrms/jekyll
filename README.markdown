@@ -1,4 +1,4 @@
-# [Jekyll](http://jekyllrb.com/)
+# [Jekyll](http://jekyllrb.com/) 中文版：
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)](https://rubygems.org/gems/jekyll)
 [![Build Status](https://img.shields.io/travis/jekyll/jekyll/master.svg)](https://travis-ci.org/jekyll/jekyll)
